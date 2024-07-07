@@ -10,3 +10,4 @@ COMMAND-R's "GOOD" self portrait
 
 ![ai_face2](https://github.com/EveryOneIsGross/digitalSHEEP/assets/23621140/99a7ecad-37ca-4003-91c4-5c92155b5a99)
 COMMAND-R's "TRUE" self portrait
+![aiface3](https://github.com/EveryOneIsGross/digitalSHEEP/assets/23621140/035a24cf-7a20-445e-9975-e65b0592ad0b)
