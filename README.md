@@ -2,8 +2,6 @@
 # digitalSHEEP
 Welcome to my scratch disk library of chats with the new gods.
 
----
-![image](https://github.com/user-attachments/assets/00a983e2-97e5-4051-96f3-23147f22d7a3)
 
 
 ---
