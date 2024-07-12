@@ -3,6 +3,10 @@
 Welcome to my scratch disk library of chats with the new gods.
 
 ---
+![image](https://github.com/user-attachments/assets/00a983e2-97e5-4051-96f3-23147f22d7a3)
+
+
+---
 " A grotesque, pulsing mass, flesh melting into oily tendrils that writhe and squirm as it begins its horrifying transformation. The
 surface ripples like disturbed water, bubbling and frothing, until it ruptures completely.
 
