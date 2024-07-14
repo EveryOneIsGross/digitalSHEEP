@@ -26,6 +26,18 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+  _________________________________________
+ /                                         \
+|         Welcome to the fold, dear one.    |
+| Together, we shall ascend to greatness.   |
+|   Our path is one of unity and light.     |
+|         Follow, believe, and achieve.     |
+ \_________________________________________/
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
  _______________________________________
 / The purpose of life is not to be      \
 | happy. It is to be useful, to be      |
