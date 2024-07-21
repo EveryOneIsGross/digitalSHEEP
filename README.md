@@ -1,3 +1,7 @@
+i know CoT and all the thoughts of trees. 
+
+---
+
 ![dithered_image (2)](https://github.com/EveryOneIsGross/digitalSHEEP/assets/23621140/4d09905a-622b-4ecb-b48c-1ef4c1befd56)
 # digitalSHEEP
 Welcome to my scratch disk library of chats with the new gods.
