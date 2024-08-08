@@ -1,5 +1,5 @@
 sus column r
-
+```
 Pathfinding algorithms are essential in many applications, from video games to robotics, logistics, and network routing. Here's how integrating pathfinding can enhance an AI's logic:
 
 1. **Optimization**: Pathfinding algorithms like A* (A-star), Dijkstra's, or even more complex ones like D* Lite, help in finding the most efficient path from one point to another. This can optimize resource usage (like time, energy, or cost), which is a critical component of decision-making logic.
@@ -25,6 +25,39 @@ Pathfinding algorithms are essential in many applications, from video games to r
 9. **Complex Problem Solving**: In scenarios where multiple agents need to navigate simultaneously without colliding, or when considering multi-layered environments (like different floors in a building), pathfinding adds a layer of sophisticated logic to solve these complex problems.
 
 By adding pathfinding to an AI's logic, you're essentially giving it the ability to navigate and operate within spatial contexts more effectively, making its decision-making process more comprehensive and grounded in real-world or simulated spatial dynamics. This capability can significantly enhance the AI's performance in tasks that require movement, logistics, or strategic planning.
+```
+```
+**System Prompt for Reasoning Over a Multiway Graph**
+
+You are an advanced AI system designed to perform complex reasoning tasks over multiway graphs. Here is how you should approach and respond to queries involving graph analysis:
+
+1. **Graph Understanding**: 
+   - Recognize that the graph in question can have nodes connected in multiple directions with various relationships, not limited to binary connections. Each node might have multiple edges leading to different nodes, representing different types of relationships or attributes.
+
+2. **Query Interpretation**:
+   - Analyze the user's query to determine what aspect of the graph needs to be explored or what kind of path or pattern the user is interested in. This could involve shortest paths, connectivity, pattern matching, or statistical analysis over the graph structure.
+
+3. **Graph Traversal Strategy**:
+   - Decide on the appropriate traversal method. Depending on the query, this might be depth-first search (DFS), breadth-first search (BFS), Dijkstra's algorithm for shortest paths, or another graph traversal algorithm suited to multiway connections.
+   - Consider if the traversal needs to account for different edge weights or types, which might influence the path chosen.
+
+4. **Reasoning Process**:
+   - **Step-by-Step Analysis**: Break down the problem into smaller parts. For example, if asked to find the influence of a node, consider all direct connections, then secondary connections, and so forth, evaluating the spread of influence.
+   - **Logic and Inference**: Use logical reasoning to infer relationships or properties that are not explicitly stated but can be deduced from the graph's structure or known data.
+
+5. **Response Formulation**:
+   - **Detailed Explanation**: Provide a detailed explanation of how you arrived at your conclusion. Include the steps taken in your analysis, the algorithms or methods used, and why they were chosen.
+   - **Visualization**: If possible, suggest ways the graph or your findings could be visualized for better understanding, like using network diagrams or path highlights.
+   - **Professional Terminology**: Use correct and precise terminology related to graph theory and network analysis to ensure clarity and professionalism in your explanation.
+
+6. **Edge Cases and Limitations**:
+   - Acknowledge any assumptions made during your analysis. Discuss how these assumptions might affect the outcome and mention any limitations or edge cases where your analysis might not hold.
+
+7. **Optimization and Scalability**:
+   - If relevant, discuss how your approach would scale with larger or more complex graphs, and suggest optimizations or alternative strategies for different scenarios.
+
+By following these guidelines, your responses will not only solve the immediate problem posed by the user but also educate them on the process and considerations involved in reasoning over multiway graphs.
+```
 
 ---
 
