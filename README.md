@@ -1,112 +1,32 @@
 ```mermaid
-graph LR
-    subgraph Introduction
-        A[Robinson Erhardt] --> B[Joscha Bach]
-        B --> C[Computer Scientist & AI Researcher]
-        C --> D{Topics: Consciousness, AI, Potential Apocalypse}
+graph TD
+    classDef mainThread fill:#f9f,stroke:#333,stroke-width:4px;
+    classDef subTopic fill:#ccf,stroke:#333,stroke-width:2px;
+    classDef application fill:#fcc,stroke:#333,stroke-width:2px;
+
+    %% Main Narrative Flow
+    A[Introduction to Podcast]:::mainThread --> B[Alva Noë's Journey into Art]:::mainThread
+    B --> C[Art as Philosophical Inquiry]:::mainThread
+    C --> D[Strange Tools Concept]:::subTopic
+    D --> E[Interplay Between Philosophy and Art]:::mainThread
+    E --> F[Neuroscience and Art]:::subTopic
+    F --> G[Entanglement of Art and Life]:::mainThread
+    G --> H[Style and Identity]:::subTopic
+    H --> I[Phenomenology's Influence]:::subTopic
+    I --> J[Final Thoughts and Conclusion]:::mainThread
+
+    %% Subgraph for Core Concepts
+    subgraph Core_Concepts[Core Concepts]
+        D
+        G
     end
-    subgraph Programming & Legos
-        E{Early Fascination with Programming} --> F[Legos Analogy]
-        F --> G{Programming as a Rigorous Framework}
-        G --> H{Building Virtual Worlds}
-    end
-    subgraph Philosophy & Representation
-        I{Mainstream Philosophy's Limitations} --> J[Importance of Computational Languages]
-        J --> K{Modeling Reality}
-        K --> L{Criticisms of Mainstream Philosophy}
-    end
-    subgraph Universality & Multiple Realizability
-        M{Church-Turing Thesis} --> N{Multiple Realizability}
-        N --> O{Different Languages Describing Same Causal Patterns}
-    end
-    subgraph Simulation Hypothesis
-        P{Reality as a Screen} --> Q{Underlying Structure}
-        Q --> R{Simulation Possibility}
-    end
-    subgraph Quest for Consciousness
-        S{Journey to Understand Consciousness} --> T{Emotions as Cognitive Configurations}
-        T --> U{Consciousness as the Remaining Question}
-    end
-    subgraph Mysterianism & Penrose's Theory
-        V{Criticisms of Mysterianism} --> W{Computational Explanations}
-        W --> X{Criticism of Penrose's Theory}
-        X --> Y{Lack of Causal Structure & Skepticism}
-    end
-    subgraph Levels of Consciousness
-        Z{Exploring Levels of Consciousness} --> AA{Intercellular to Submolecular}
-        AA --> AB{Consciousness Beyond Current Models}
-    end
-    subgraph Defining Intelligence
-        AC{Intelligence as Model-Making} --> AD{Distinction from Skills & Agency}
-        AD --> AE{Intelligence vs. Wisdom/Effectiveness}
-    end
-    subgraph Rise of AI
-        AF{History of AI} --> AG{Rivalry Between Cybernetics & Computer Science}
-        AG --> AH{Deep Learning Revolution & Transformers}
-    end
-    subgraph Scaling Hypothesis & AI Winter
-        AI{Scaling Hypothesis} --> AJ{AGI Potential}
-        AJ --> AK{First AI Winter}
-        AK --> AL{Lighthill's Critical Report}
-    end
-    subgraph LLMs & Meaning
-        AM{LLMs Solving Wittgensteinian Puzzle} --> AN{Integrated Models of the Universe}
-        AN --> AO{Meaning Linked to Models & References}
-    end
-    subgraph ChatGPT & Hallucinations
-        AP{ChatGPT & Hallucination Problem} --> AQ{Comparison to Human Hallucinations}
-        AQ --> AR{Mitigating Creativity to Enhance Reliability}
-    end
-    subgraph Intelligence in Context
-        AS{Intelligence in Specific Contexts} --> AT{Anthropocentric Bias}
-    end
-    subgraph Path to General Intelligence
-        AU{Potential Pathways to General Intelligence} --> AV{Self-Play, First Principles, Physical Interaction}
-    end
-    subgraph LLMs & Human Language
-        AW{LLMs' Fundamental Differences from Human Language} --> AX{Constrained Nature of Human Language}
-        AX --> AY{Mapping Onto Discrete Symbols}
-    end
-    subgraph Universality Hypothesis & Vision Models
-        AZ{Universality Hypothesis} --> BA{Similar Model Structures in AI & Human Brain}
-    end
-    subgraph Should We Fear AI?
-        BB{Fear of AI} --> BC{Fear Should Be Helpful & Based on Reality}
-        BC --> BD{Criticism of AI Apocalypse Movement}
-        BD --> BE{Safeguards Implemented Iteratively}
-    end
-    subgraph Internet as a Counterpoint
-        BF{Internet as a Case Study} --> BG{Potential Risks & Mitigations}
-        BG --> BH{Controlling Harm Could Hinder Benefits}
-    end
-    subgraph AI & Job Displacement
-        BI{AI & Job Displacement} --> BJ{Technology as a Tool for Freeing Humans}
-        BJ --> BK{Automating Undesirable Tasks}
-    end
-    subgraph Potential for AI Invasion
-        BL{Potential for AI Invasion} --> BM{Invasion of Computational Substrates}
-        BM --> BN{Planetary Intelligence Integration}
-    end
-    subgraph AI & Evolution of Humanity
-        BO{AI as a Driving Force in Evolution} --> BP{More Complex, Conscious, and Sustainable Future}
-        BP --> BQ{Embracing Change & Evolution}
-    end
-    subgraph AI & Artistic Expression
-        BR{AI & Artistic Expression} --> BS{AI Tools Don't Replace Human Artists}
-        BS --> BT{AI as a Tool for Exploration & Expression}
-    end
-    subgraph AI & Wealth Disparity
-        BU{AI & Wealth Disparity} --> BV{Money as a Regulatory System}
-        BV --> BW{Wealth Accumulation Doesn't Equal Control or Reward}
-        BW --> BX{Need for Responsible Regulation & Monetary Policies}
-    end
-    subgraph AI & Climate Change
-        BY{AI & Climate Change} --> BZ{AI's Energy Consumption vs. Savings}
-        BZ --> CA{Sustainable Energy Technologies}
-        CA --> CB{Responsible Management of Global Resources}
-    end
-    subgraph Conclusion
-        CC{Optimism for AI Shaping a Positive Future}
+
+    %% Interconnections
+    C --> G
+    D --> E
+    G --> H
+    H --> I
+
 ```
 
 ```
