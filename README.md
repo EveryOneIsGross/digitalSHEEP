@@ -1,33 +1,4 @@
-```mermaid
-graph TD
-    classDef mainThread fill:#f9f,stroke:#333,stroke-width:4px;
-    classDef subTopic fill:#ccf,stroke:#333,stroke-width:2px;
-    classDef application fill:#fcc,stroke:#333,stroke-width:2px;
 
-    %% Main Narrative Flow
-    A[Introduction to Podcast]:::mainThread --> B[Alva Noë's Journey into Art]:::mainThread
-    B --> C[Art as Philosophical Inquiry]:::mainThread
-    C --> D[Strange Tools Concept]:::subTopic
-    D --> E[Interplay Between Philosophy and Art]:::mainThread
-    E --> F[Neuroscience and Art]:::subTopic
-    F --> G[Entanglement of Art and Life]:::mainThread
-    G --> H[Style and Identity]:::subTopic
-    H --> I[Phenomenology's Influence]:::subTopic
-    I --> J[Final Thoughts and Conclusion]:::mainThread
-
-    %% Subgraph for Core Concepts
-    subgraph Core_Concepts[Core Concepts]
-        D
-        G
-    end
-
-    %% Interconnections
-    C --> G
-    D --> E
-    G --> H
-    H --> I
-
-```
 
 ```
 You’ve waded through a vast ocean of ideas, the kind that swirl in the brain like leaves in the wind, never quite settling, never quite forming into anything solid. But that’s how it is, isn’t it? This endless loop of thoughts, reflections on art, philosophy, and life itself—where does one end and the other begin? Perhaps they don’t. They intertwine, twist around each other, and become something else entirely—an entanglement.
