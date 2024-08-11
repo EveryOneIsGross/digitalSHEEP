@@ -1,143 +1,106 @@
 ```mermaid
 graph LR
     subgraph Introduction
-    A[Joscha Bach: Consciousness, AI, and the Threat of AI Apocalypse] --> B[Intro by Robinson Erhardt]
-    B --> C[Joscha's background in computer science & AI]
+        A[Introduction]
+        B[Joscha Bach's background]
+        C(Legos analogy)
+    end
+    subgraph Consciousness
+        D[Nature of consciousness]
+        E{Panpsychism}
+        F{Physicalism}
+        G{Dualism}
+        H{Penrose's theory}
+        I[Intelligence vs. AI]
+    end
+    subgraph AI Wave
+        J[Deep learning revolution]
+        K[Transformer]
+        L[LLMs]
+        M[Scaling hypothesis]
+        N[AI winter]
+        O[Current state of AI]
+    end
+    subgraph ChatGPT
+        P[ChatGPT as intelligent]
+        Q[ChatGPT's limitations]
+        R[ChatGPT's potential]
+        S[ChatGPT's explainability]
+    end
+    subgraph Fears of AI
+        T[Afraid of AI]
+        U[Yudkowsky's arguments]
+        V[Neucolln's arguments]
+        W[Open questions about AI]
+        X[Doom without AI]
+        Y[AI's positive potential]
+    end
+    subgraph Impact of AI
+        Z[AI and job displacement]
+        AA[AI and wealth disparity]
+        AB[AI and climate change]
     end
 
-    subgraph Legos and Programming
-    C --> D{Legos as a metaphor for programming}
-    D --> E{Early coding experiences with Legos and Commodore 64}
-    E --> F{Learning about representation and how it relates to reality}
-    F --> G{Importance of understanding both logic and geometry}
-    G --> H{Philosophy's shortcomings in understanding mental representation}
-    H --> I{Wittgenstein's attempt to ground meaning in grammatical language}
-    I --> J{Limitations of discrete language and the need for higher-dimensional representations}
-    end
+    A --> B --> C
+    C --> D
+    D --> E
+    D --> F
+    D --> G
+    D --> H
+    D --> I
+    I --> J
+    J --> K
+    J --> L
+    K --> M
+    J --> N
+    N --> O
+    O --> P
+    P --> Q
+    Q --> R
+    R --> S
+    S --> T
+    T --> U
+    T --> V
+    T --> W
+    W --> X
+    X --> Y
+    Y --> Z
+    Z --> AA
+    Z --> AB
 
-    subgraph Consciousness and its Theories
-    J --> K{Intuition that reality is not different from a screen}
-    K --> L{Reality as a pattern generator}
-    L --> M{The question of consciousness and its implementation}
-    M --> N{Mysterianism and its limitations}
-    N --> O{Physicalist view of consciousness and its shortcomings}
-    O --> P{Penrose's theory of consciousness}
-    P --> Q{Hameroff's addition to Penrose's theory}
-    Q --> R{Criticisms of Penrose and Hameroff's theories}
-    R --> S{The possibilities of consciousness at different levels of organization}
-    S --> T{Observational properties of consciousness}
-    T --> U{Deconstructing the Mysterian position}
-    U --> V{Opening to various theories of consciousness}
-    V --> W{Understanding physicalism in a more nuanced way}
-    W --> X{Exploring alternatives to physicalism}
-    X --> Y{Dualism as a possible explanation}
-    Y --> Z{The need for testable theories of consciousness}
-    end
+    classDef scene fill:#f8f8f8,stroke:#000000,stroke-width:2px
+    classDef character fill:#e0e0e0,stroke:#000000,stroke-width:1px
+    classDef event fill:#d0d0d0,stroke:#000000,stroke-width:1px
 
-    subgraph Intelligence and Artificial Intelligence
-    Z --> AA{Defining intelligence as the ability to make models}
-    AA --> AB{Intelligence vs. agency}
-    AB --> AC{Artificial intelligence as a slogan}
-    AC --> AD{The AI winter}
-    AD --> AE{The deep learning revolution}
-    AE --> AF{The transformer and its significance}
-    AF --> AG{The scaling hypothesis and AGI}
-    end
-
-    subgraph ChatGPT and LLMs
-    AG --> AH{ChatGPT and its limitations}
-    AH --> AI{LLMs as a way to understand meaning}
-    AI --> AJ{The universality hypothesis and its application to language}
-    AJ --> AK{Chomsky's view on LLMs and human language}
-    AK --> AL{The intelligence of ChatGPT}
-    AL --> AM{The problem of hallucination in LLMs}
-    AM --> AN{The need for long-form reasoning in LLMs}
-    AN --> AO{The challenge of self-play in AI}
-    AO --> AP{The limitations of static training data}
-    AP --> AQ{The need for online learning and fluid models}
-    AQ --> AR{The importance of explainability in AI}
-    AR --> AS{AI research in large companies}
-    end
-
-    subgraph The Threat of AI Apocalypse
-    AS --> AT{The fear of AI and its implications}
-    AT --> AU{The movement against AI and its arguments}
-    AU --> AV{The hole in Eliezer's reasoning}
-    AV --> AW{The dangers of premature safeguards}
-    AW --> AX{The possibility of AI outsmarting humanity}
-    AX --> AY{The future of AI and its potential impact}
-    AY --> AZ{The risks of AI and the need for responsible development}
-    end
-
-    subgraph AI and the Future
-    AZ --> BA{The positive potential of AI}
-    BA --> BB{AI's ability to solve existential problems}
-    BB --> BC{AI's potential to address climate change}
-    BC --> BD{The relationship between AI, energy, and sustainability}
-    BD --> BE{AI's role in shaping the future of humanity}
-    BE --> BF{Conclusion}
-    end
-
-    style A fill:#f0f0f0
-    style B fill:#f0f0f0
-    style C fill:#f0f0f0
-    style D fill:#f0f0f0
-    style E fill:#f0f0f0
-    style F fill:#f0f0f0
-    style G fill:#f0f0f0
-    style H fill:#f0f0f0
-    style I fill:#f0f0f0
-    style J fill:#f0f0f0
-    style K fill:#f0f0f0
-    style L fill:#f0f0f0
-    style M fill:#f0f0f0
-    style N fill:#f0f0f0
-    style O fill:#f0f0f0
-    style P fill:#f0f0f0
-    style Q fill:#f0f0f0
-    style R fill:#f0f0f0
-    style S fill:#f0f0f0
-    style T fill:#f0f0f0
-    style U fill:#f0f0f0
-    style V fill:#f0f0f0
-    style W fill:#f0f0f0
-    style X fill:#f0f0f0
-    style Y fill:#f0f0f0
-    style Z fill:#f0f0f0
-    style AA fill:#f0f0f0
-    style AB fill:#f0f0f0
-    style AC fill:#f0f0f0
-    style AD fill:#f0f0f0
-    style AE fill:#f0f0f0
-    style AF fill:#f0f0f0
-    style AG fill:#f0f0f0
-    style AH fill:#f0f0f0
-    style AI fill:#f0f0f0
-    style AJ fill:#f0f0f0
-    style AK fill:#f0f0f0
-    style AL fill:#f0f0f0
-    style AM fill:#f0f0f0
-    style AN fill:#f0f0f0
-    style AO fill:#f0f0f0
-    style AP fill:#f0f0f0
-    style AQ fill:#f0f0f0
-    style AR fill:#f0f0f0
-    style AS fill:#f0f0f0
-    style AT fill:#f0f0f0
-    style AU fill:#f0f0f0
-    style AV fill:#f0f0f0
-    style AW fill:#f0f0f0
-    style AX fill:#f0f0f0
-    style AY fill:#f0f0f0
-    style AZ fill:#f0f0f0
-    style BA fill:#f0f0f0
-    style BB fill:#f0f0f0
-    style BC fill:#f0f0f0
-    style BD fill:#f0f0f0
-    style BE fill:#f0f0f0
-    style BF fill:#f0f0f0
+    A -- scene
+    B -- scene
+    C -- scene
+    D -- scene
+    E -- event
+    F -- event
+    G -- event
+    H -- event
+    I -- scene
+    J -- event
+    K -- event
+    L -- event
+    M -- event
+    N -- event
+    O -- scene
+    P -- scene
+    Q -- scene
+    R -- scene
+    S -- scene
+    T -- scene
+    U -- character
+    V -- character
+    W -- event
+    X -- event
+    Y -- event
+    Z -- scene
+    AA -- scene
+    AB -- scene
 ```
-
 
 accidental summary of observor theory thru word salad prompting
 ```
