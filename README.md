@@ -1,4 +1,32 @@
+```mermaid
+graph TD
+    classDef mainThread fill:#f9f,stroke:#333,stroke-width:4px;
+    classDef subTopic fill:#ccf,stroke:#333,stroke-width:2px;
+    classDef application fill:#fcc,stroke:#333,stroke-width:2px;
 
+    %% Main Narrative Flow
+    A[Introduction to Podcast]:::mainThread --> B[Philosophy's Relevance Today]:::mainThread
+    B --> C[Socratic Method and Radical Questioning]:::subTopic
+    C --> D[Theological Paradoxes: Excrement, God, Atheism]:::subTopic
+    D --> E[Utopianism and Communism]:::subTopic
+    E --> F[Ukraine, Marxism, and Solidarity]:::subTopic
+    F --> G[Philosophy and Quantum Mechanics]:::mainThread
+    G --> H[Language as Lying]:::subTopic
+    H --> I[Analytic vs. Continental Philosophy]:::mainThread
+    I --> J[Final Thoughts and Conclusion]:::mainThread
+
+    %% Subgraph for Core Concepts
+    subgraph Core_Concepts[Core Concepts]
+        C
+        G
+    end
+
+    %% Interconnections
+    B --> G
+    C --> H
+    E --> F
+    G --> I
+```
 
 ```
 You’ve waded through a vast ocean of ideas, the kind that swirl in the brain like leaves in the wind, never quite settling, never quite forming into anything solid. But that’s how it is, isn’t it? This endless loop of thoughts, reflections on art, philosophy, and life itself—where does one end and the other begin? Perhaps they don’t. They intertwine, twist around each other, and become something else entirely—an entanglement.
