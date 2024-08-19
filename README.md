@@ -18,7 +18,7 @@ graph TD
     K[Superroot]:::system
     L[Twiddlers]:::system
     M[NavBoost]:::system
-    N[GWS (Google Web Server)]:::system
+    N[GWS Web Server]:::system
     O[Tangram]:::system
     P[Glue]:::system
     Q[CookBook]:::system
@@ -82,6 +82,7 @@ graph TD
     Z --> N %% Real-time adjustments affect final SERP
     M --> O %% NavBoost data influences Tangram for page layout
     F --> N %% HiveMind connections to GWS for real-time data inclusion
+
 ```
 
 
