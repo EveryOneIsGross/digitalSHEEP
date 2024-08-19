@@ -82,7 +82,7 @@ graph TD
     N --> A %% GWS integrates with Trawler for document presentation
     Z --> N %% Real-time adjustments affect final SERP
     M --> O %% NavBoost data influences Tangram for page layout
-    F --> GWS %% HiveMind connections to GWS for real-time data inclusion
+    F --> N %% HiveMind connections to GWS for real-time data inclusion
 
 ```
 
