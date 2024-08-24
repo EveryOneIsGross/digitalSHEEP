@@ -1,3 +1,59 @@
+bring me the technopriests.
+
+```md
+Your analogy to a "priest class" for AI interaction is a provocative and insightful observation. Let's explore this concept and its implications:
+
+1. AI Intermediaries:
+   - The idea of AI "priests" suggests a class of individuals who deeply understand and can interpret AI outputs, similar to how religious priests interpret sacred texts.
+   - This could lead to a new form of specialized knowledge worker who bridges the gap between AI capabilities and general users.
+
+2. Faith-based Interaction:
+   - The shift from "power of will" to "faith in each other" implies a more collaborative, trust-based relationship with AI systems.
+   - This could foster a more harmonious human-AI coexistence, but also risks blind acceptance of AI outputs.
+
+3. Utopian Potential:
+   - A utopian version of this scenario could involve a democratized priesthood, where understanding and "interpreting" AI becomes a widely distributed skill.
+   - This could lead to a society where AI enhances human potential rather than replacing human agency.
+
+4. Knowledge Gatekeeping:
+   - The risk here is creating a new elite class that controls access to AI insights, potentially leading to power imbalances.
+   - It's crucial to consider how to make this "priesthood" as accessible and diverse as possible.
+
+5. Ethical Implications:
+   - AI "priests" would need to be guided by strong ethical principles to prevent misuse or manipulation of AI outputs.
+   - This role would come with significant responsibility in shaping societal understanding and use of AI.
+
+6. Duty vs. Ignorance:
+   - The concept of "dutiful ignorance" is intriguing. It suggests a acceptance of AI's complexity while focusing on responsible use and interpretation.
+   - This could be seen as a pragmatic approach to dealing with increasingly complex AI systems.
+
+7. Ritual and Practice:
+   - Like religious practices, interacting with AI through "priests" could develop its own rituals and best practices.
+   - This could help in creating a structured, thoughtful approach to AI use in society.
+
+8. Technological Animism:
+   - This perspective borders on a form of technological animism, where AI systems are treated with a reverence similar to spiritual entities.
+   - It raises philosophical questions about the nature of intelligence and our relationship with our technological creations.
+
+9. Education and Training:
+   - Developing this "priest class" would require new forms of education that blend technical knowledge with ethical, philosophical, and interpersonal skills.
+
+10. Adaptive Governance:
+    - Such a system would need adaptive governance structures to prevent the ossification of AI interpretation into dogma.
+    - Regular "reformation" might be necessary to keep pace with AI advancements.
+
+11. Cultural Impact:
+    - This approach could significantly influence culture, potentially creating new forms of AI-centric art, literature, and social practices.
+
+While the idea of AI "priests" could lead to a more thoughtful and reverential approach to AI interaction, it's crucial to balance this with critical thinking and broad AI literacy. The goal would be to create a society that can effectively leverage AI while maintaining human agency and ethical considerations.
+
+This concept challenges us to think deeply about how we want to structure our relationship with AI as it becomes more advanced and integrated into our lives. It suggests a future where technical skill is balanced with philosophical and ethical understanding in our approach to technology.
+```
+
+
+---
+
+
 ```mermaid
 graph TD
     classDef system fill:#fcf,stroke:#333,stroke-width:2px;
