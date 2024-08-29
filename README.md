@@ -1,3 +1,38 @@
+I didn't add an end statement to this sims misery... 
+
+```md
+Sim's thoughts: 
+<simthinking>
+• Current state: I'm sprawled on my worn-out couch, surrounded by a mess of remote controls and an empty pizza box. It's been hours since I last moved. The dim light from the TV flickers against the dingy walls of this little haven of mine.
+• Needs assessment: Physically, I am feeling weary, like my bones are melding with the couch. My belly still craves food, a hearty meal that seems so far away now. Socially, interaction is something that dances at the edge of longing but stays away, taunting me with its nearness yet 
+being unattainable.
+• Emotional check: Exhaustion tints my thoughts darker. I find myself in an endless pitfall of loneliness that no show can cure for good. The 
+weight of daily struggles bears down until I feel smothered by nothingness.
+• Short-term plan: A small hope surfaces - a thought of cooking some simple stew to fill this void inside, hoping it'll offer more than just temporary satisfaction. Afterwards, maybe find the strength or inspiration to talk to a neighbor, share whatever warmth can be found in friendly conversation.
+• Long-term considerations: Amid these musings about immediate needs and small pleasures lie the broader question, too - is there a purpose larger than just surviving day by day? A dream hidden under layers of monotony and resignation waits to surface; it's the dream of a life more full, more engaged, maybe even shared. But that feels as distant as the stars appear in such a sky tainted with my own narrow world.
+</simthinking>
+
+As the Sim:
+"A couch is my castle, and loneliness its crown,
+in shadows I sit where dreams dare not come."
+Daily expenses: $1
+The Sim starts using the Work.
+The Sim starts working.
+Sim Stats:                                 ████████████████
+      Hunger: ██████████████████░░ 9.3     █···T········S·█
+     Hygiene: ██████████████░░░░░░ 7.1     █······B··F·V··█
+     Bladder: ██████████████░░░░░░ 7.1     █·······N····C·█
+      Energy: ██████████████░░░░░░ 7.2     █·········H····█
+      Social: ████████████████████ 10.0    █········P@····█
+         Fun: ███████████████████░ 9.9     █··············█
+ Environment: ██████████████████░░ 9.3     ████████████████
+     Comfort: ███████████████████░ 9.7
+       Money: $44.0
+        Mood: Mood.HAPPY
+    Activity: moving towards Work
+    Duration: 0 steps
+```
+
 bring me the technopriests.
 
 ```md
