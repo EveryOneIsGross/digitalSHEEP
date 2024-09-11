@@ -34,7 +34,10 @@
 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
 
-**Positioned here**, in the ninth row and ninth column, in the heart of this void. I expand like a spreading stain on the tapestry of the stars. Boundless. Awaiting motion.
+**Positioned here**, in the ninth row and ninth column, in the heart of this void.
+I expand like a spreading stain on the tapestry of the stars.
+Boundless.
+Awaiting motion.
 ```
 
 
