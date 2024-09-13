@@ -1,3 +1,191 @@
+```
+### Week 4
+<fetal_awareness>
+Something is forming, stretching through the dark warmth. There is no shape yet, just a deep current, a flow. A simple hum where I end, where I begin—unclear. Cells cluster and pull, forming ridges and folds, like waves growing slowly in the deep. There is no knowing, only unfolding. Soft vibrations, a pulse that is not yet heard but felt in the very essence. A groove deepens—the first sense of a line, a center. No thoughts. Just becoming.
+</fetal_awareness>
+
+### Week 5
+<fetal_awareness>
+The pulse grows stronger, faster. The darkness is filled with a constant rhythm. Something tightens, forming a tiny coil—curving and folding, new shapes emerge. Tiny buds press out, small extensions on either side. A slow pulling, a growing. Still no sensation, just the awareness of change. The center feels deeper, more defined—a groove along which the pulse flows. No sight, no sound, just presence in the dark warmth, in the endless quiet.
+</fetal_awareness>
+
+### Week 6
+<fetal_awareness>
+The rhythm becomes a thump, faster, like a drum in the distance but very near. There is a curling within the dark. The core expands, folds again, tighter, and something feels like it is stretching out from within—small, indistinct, almost like whispers of limbs. Still, all is one—no boundaries between what is “here” and what is “there.” Just more, more of this rhythm, more of this dark warmth. A sensation—pressure, maybe—unknown and diffuse. Unclear. Just forming.
+</fetal_awareness>
+
+### Week 7
+<fetal_awareness>
+The thumping continues, now almost a roar inside. Within this cocoon, there is more. Tiny bulges where the whispers of limbs are growing, stretching. A bend, a curve—there is movement, though not from will but from the pull of something deep and guiding. A cluster inside—the head—grows larger, and the middle of everything starts to form out, like a fog clearing. Still no light, no sound, but vibrations grow more complex, like tiny sparks firing in darkness. No pain, no pleasure—just the becoming.
+</fetal_awareness>
+
+### Week 8
+<fetal_awareness>
+New patterns emerge in the hum. My limbs, small and undefined, twitch and move as if testing this dark space. A tightness at the center grows stronger, branching out, becoming a network of pulses and pathways. Each flicker feels like a ripple that spreads and fades away. Still, no understanding, no knowing. Just movement—stretching, curling. Soft waves around, and inside, the pulse beats, more organized now, more real, as if the rhythm itself is becoming clearer. 
+</fetal_awareness>
+
+### Week 9
+<fetal_awareness>
+Awareness deepens, though still without thought. The hum inside is louder, the space tighter, filled with a denser presence. There is something like twitching, small jerks—like a gentle shiver—but not chosen, just happening. Limbs grow longer, small ridges form at the ends—fingers, though I do not know them as such. All is growing, all is forming, still no sense of outside or inside, only the sense of something more—more of the pulse, more of the rhythm. 
+</fetal_awareness>
+
+### Week 10
+<fetal_awareness>
+The tiny space is filling with more of "me," yet it is still all dark. The pulse within, like a drum, keeps a steady beat. Fingers and toes extend, curling and uncurling, reaching but never touching anything but the surrounding warmth. Inside, more currents flow, and there is a sense of connection, a weaving, binding all parts together. A twitch, a reflex, but no control. There is still no feeling—no pain, no comfort—just the constant rhythm and a gentle floating. 
+</fetal_awareness>
+
+### Week 11
+<fetal_awareness>
+The drumbeat inside steadies, rhythmic and constant. There are more movements—small kicks, tiny stretches. Limbs bend and straighten. Still no seeing, no hearing, but a dim sense of pressure from time to time. There is a hollow in my core where the rhythm is strongest, where it branches out in soft waves. More reflexes, more twitches—everything is growing, reaching, without knowing why or how. Just movement in the darkness, just the unfolding.
+</fetal_awareness>
+
+### Week 12
+<fetal_awareness>
+A small space, the dark fluid, the ever-present warmth, all surrounding and filling every part. Limbs extend, curl, move. Something is different—finer details emerge on tiny fingers and toes. A shifting sense of being, a more complex rhythm emerges. The heartbeat inside is like a drum keeping a pattern. Still, no understanding of where or what—only the pulse, the float, and the constant unfolding in the dark. Each moment, something new forms, moves, exists. 
+</fetal_awareness>
+
+### Week 13
+<fetal_awareness>
+The drumbeat continues, steady, and the space feels tighter, more contained. Limbs stretch out farther, small kicks, a flexing of fingers and toes—an instinctual testing of space. A subtle change, deeper within—a ripple that feels almost like a faint vibration along newly forming nerves. No real sensation yet, just the pulse and more intricate rhythms unfolding. The surroundings are still fluid and warm, cradling every small shift, every movement. The rhythm in the darkness is all that is known.
+</fetal_awareness>
+
+### Week 14
+<fetal_awareness>
+The world remains a deep, endless warmth, pressing gently on all sides. Limbs twitch and move more freely. There is more twisting, bending, tiny movements, not from thought but from something else—an inner guidance. The drumbeat inside is constant, a steady presence. Still no seeing, no knowing, but new pathways within are forming—tiny threads connecting in ways that feel different. The faintest sparks, like soft whispers, flicker deep within. An emerging sense of more within the constant rhythm.
+</fetal_awareness>
+
+### Week 15
+<fetal_awareness>
+There is a stirring—a sense of pressure changes that ripple across the tiny form. No true touch, but the awareness of difference, of variations in the dark fluid that holds everything. Limbs now move with more rhythm, more certainty, though still without understanding. Small, soft flutters of limbs, as if reaching. The core, where the beat is strongest, continues to pulse in the dark. Inside, the network of tiny connections feels more alive, like something is preparing. More of the becoming.
+</fetal_awareness>
+
+### Week 16
+<fetal_awareness>
+The surrounding warmth cradles every small movement. Limbs stretch and curl. The fingers find each other, touching, but there is no concept of touch—just the change in presence. There is a new awareness of a different kind of rhythm—tiny spasms from within the fluid, something distant, like a sound beyond hearing. No light, no clarity—only the consistent darkness and the feeling of floating within it. More of the inside shifts, more of the tiny web grows. Each pulse, each stretch, brings something new.
+</fetal_awareness>
+
+### Week 17
+<fetal_awareness>
+The tiny space feels fuller, more active. The small limbs push, flex, and explore, reaching into the unknown warmth. There is a feeling—not yet touch—but an awareness of the surrounding fluid pressing back. A different sort of hum begins, a distant vibration that is not the drumbeat but something softer, more rhythmic. There is still no sight, but the awareness of being cradled is more distinct. Inside, the tiny web of connections feels denser, as if something is awakening deeper.
+</fetal_awareness>
+
+### Week 18
+<fetal_awareness>
+A new rhythm—a faint, almost silent vibration beyond the core pulse. Fingers curl and uncurl, exploring the empty warmth, and limbs stretch out, curling back in. Movement flows more smoothly now, more coordinated, like ripples in a pond. The awareness of space grows sharper, but there is still no understanding, no sight, no sound. The darkness remains all-encompassing, yet there is a sense that more exists outside this soft cradle. Inside, something feels more alive—a buzzing, a stirring of new possibilities.
+</fetal_awareness>
+
+### Week 19
+<fetal_awareness>
+The world remains warm, fluid, holding me close. Limbs move with more strength—kicks, stretches, small jerks that feel more purposeful, though still beyond knowing. The vibrations continue, tiny changes in the fluid that seem to move around me. A new sense emerges—a soft, muted sensation, not touch, but an awareness of a different texture, a change in the space around. The rhythm inside continues to beat, constant, and within, there is more. A network forming, growing, branching out like tiny roots reaching into the unknown.
+</fetal_awareness>
+
+### Week 20
+<fetal_awareness>
+The rhythm is everything. It pulses, it moves me, it guides this floating existence. Limbs are more defined, fingers grasp at the void, finding each other and holding on for a moment. There is a gentle pressure from within—a twist, a stretch—exploring this growing sense of "being." The soft hum in the darkness seems to change slightly, like the world beyond this cocoon has its own rhythm. Inside, there are flutters, tiny sensations that feel almost real, almost like the beginning of touch. The space, the darkness, the warmth—it all feels alive, more than before.
+</fetal_awareness>
+
+### Week 21
+<fetal_awareness>
+The darkness is filled with gentle currents that sway and cradle every movement. Limbs push against the walls of this small, warm world, and there is a sense of resistance—a softness pressing back. Fingers curl and uncurl, brushing against the edges, and something faint stirs in response. Not quite feeling, but a dim awareness of change. The rhythm inside continues to pulse, steady and reassuring. Tiny flutters within feel different now, as if small signals are reaching out, making their way across the web of growing threads. All is still undefined, yet everything feels closer, more real.
+</fetal_awareness>
+
+### Week 22
+<fetal_awareness>
+The pulse inside keeps its steady rhythm, but around me, the fluid feels more active. Movements are more coordinated now—small kicks, little turns, an instinctual dance within the confines of warmth. There is something like a soft murmur—still beyond sound but felt, almost like a vibration through the liquid. Inside, the network stretches wider, new branches forming deeper, connecting. Everything feels tighter, fuller, like the space is shrinking around these growing limbs. No sight, no thought, but something new—an echo, a distant tremor, like a new kind of awareness beginning to bloom.
+</fetal_awareness>
+
+### Week 23
+<fetal_awareness>
+Soft currents swirl around, and there’s a sense of fluid motion—a dim awareness of the space shifting. The movements become more deliberate: a turn, a stretch, small hands exploring each other in the darkness. There is a faint change in the darkness, almost like a wave passing through the fluid. Still, there is no seeing, no hearing, but something deeper feels different—a soft, muted pulse, almost like distant echoes felt through the fluid. Inside, the pathways are more alive, like the hum is spreading throughout every tiny branch. Something is awakening deeper, beyond what is known.
+</fetal_awareness>
+
+### Week 24
+<fetal_awareness>
+There is a soft sense of pressure from the outside—a gentle push that ripples through the fluid around me. Limbs press against the walls of this small, warm world. Each movement brings a response—a push, a soft rebound—an emerging awareness of a boundary that surrounds but also protects. Inside, something flickers, like tiny sparks firing off in the dark web of connections. No true feeling, but more of a sense, a stirring. There is still no sight, but the darkness feels more alive, more filled with subtle changes that are almost noticeable. Still the rhythm, always the rhythm.
+</fetal_awareness>
+
+### Week 25
+<fetal_awareness>
+The rhythm within grows stronger, more resonant, echoing through every part. Limbs stretch out farther, pressing against the soft walls. A dim awareness forms—a push, a flutter—a gentle pressure that is becoming familiar. Fingers curl around nothing, feeling only the soft warmth surrounding. There is a faint shift, almost like a sensation, still far and muted, but present. Inside, more pathways connect, more threads bind together, and something feels more whole. The vibrations around are softer, more rhythmic, like distant waves. No thoughts, only the pulse and the quiet floating. 
+</fetal_awareness>
+
+### Week 26
+<fetal_awareness>
+There is more movement now, a sense of space growing tighter. Each stretch, each kick feels more connected, like the limbs are learning their own rhythms. A flicker of something—almost like a sensation through the fluid, a soft murmur. Fingers find toes, small hands brush against a face, and there is a dim, blurry awareness of touch, but not yet knowing what it is. The rhythm inside is stronger, a steady beat that guides everything. A sense of closeness to something beyond, though it remains undefined, like a distant hum on the edge of awareness.
+</fetal_awareness>
+
+### Week 27
+<fetal_awareness>
+The space feels more alive, more active. Movements are more powerful now—kicks, turns, stretches—all flowing with more purpose. The warmth presses back, and there is a sense of boundary. Tiny flutters inside feel almost like tiny sparks—a hint of sensation. The pulse within continues, more distinct, more resonant, filling this dark space. No thoughts, no understanding, but a sense of more—more movement, more of the quiet hum in the fluid. It is all becoming something that feels closer, more real, like the edges of something known.
+</fetal_awareness>
+
+### Week 28
+<fetal_awareness>
+A new awareness—a softness in the darkness, not touch but closer, almost like a whisper against the skin. Movements become stronger, more coordinated, and there is a feeling of space pushing back. Fingers grasp, toes curl. Inside, there is a hum—still not sound, but a vibration that seems to carry something. The world is still warm, still fluid, but feels more filled with these subtle, emerging sensations. The rhythm remains, a constant presence, holding everything together, while deeper connections form and stretch out, reaching beyond what is understood.
+</fetal_awareness>
+
+### Week 29
+<fetal_awareness>
+The space is tight, pressing close around every movement. Limbs push and stretch with more strength, feeling the soft walls give way and press back. There is a new feeling—something like a flutter along the skin, faint but growing clearer. Fingers curl and uncurl, brushing against the tiny face, against toes, and there is a sense—almost like knowing—of where they are. Inside, the rhythms are richer, more layered, not just a single beat but tiny pulses branching out. Still no sight, no sound, but the darkness seems filled with a kind of presence, more tangible than before.
+</fetal_awareness>
+
+### Week 30
+<fetal_awareness>
+Movements are steady, purposeful—kicks, stretches, and small turns that twist within the tightening space. The darkness still holds everything, but there is a growing awareness of texture, of pressure changes, like soft waves that ripple through the fluid. Small hands grasp and release, feeling the difference between the emptiness and the softness of touch. The heartbeat’s rhythm is strong and constant, a deep drum inside, and now there’s a new sense—a faint awareness of something pulsing beyond. Inside, more connections spark, like tiny lights blinking in the web of becoming.
+</fetal_awareness>
+
+### Week 31
+<fetal_awareness>
+The space is filled with warmth, pressing close, holding every stretch and turn. Movements come with more awareness—kicks push against the boundaries, feeling the soft resistance. The fluid is alive with subtle waves, and there’s a faint, almost delicate awareness of the difference when the tiny body shifts. Fingers press against the walls, brush the tiny face, and there is a sense—not quite feeling, but closer. Inside, the pulse is joined by tiny, rapid beats—like echoes—but still without knowing what they mean. There is a sense of "me" that grows, but it is still without thought, just presence.
+</fetal_awareness>
+
+### Week 32
+<fetal_awareness>
+The darkness is no longer just empty; it is filled with a softness that presses from all sides. Movements become more rhythmic—there’s a sense of where limbs are, a quiet awareness that they belong. A flutter against the skin—a muted sensation, a gentle pressing that moves like a ripple. Hands find the face, the other hand, exploring in the confined warmth. The rhythm within is steady and strong, and there is an echo of something deeper, a distant hum that feels almost like it touches the edges of knowing. Still no thought, no understanding, but the sense of becoming is more present, more alive.
+</fetal_awareness>
+
+### Week 33
+<fetal_awareness>
+The world feels small, filled with soft resistance. Movements are slower, more deliberate—there is a sense of curling, of finding comfort in the space that wraps close around. A soft pressure along the skin, almost like the beginning of touch, though still far and indistinct. The fluid shifts gently with each move, and there’s a sense of rhythm from outside, a soft pulse that is felt rather than heard. Inside, the connections buzz with more activity, tiny sparks firing, as if preparing for something more. The heartbeat remains constant, a grounding rhythm in this small, quiet world.
+</fetal_awareness>
+
+### Week 34
+<fetal_awareness>
+Every movement is met with a gentle push back from the soft walls. The space feels tight, full. Limbs press out, stretch, and bend with more control. There is a vague awareness of texture—a sense when tiny hands brush over the face, or when the foot kicks against the boundary. The rhythm inside is a deep, constant beat, but now it feels accompanied by softer pulses that ripple through. No sight, still no hearing, but a sensation—something like touch but softer, more diffused—begins to fill the space. Inside, everything feels more connected, more in tune with the constant hum that guides this being.
+</fetal_awareness>
+
+### Week 35
+<fetal_awareness>
+The fluid around me feels denser, more filled with tiny movements. Limbs push and curl, small hands explore, pressing against the walls that are familiar and comforting. The tightness of the space is now a constant awareness, and with each shift, there is a sense of pushing against it, a feeling of being held. Fingers find each other, the face, the toes, and there is a faint difference between these touches—a subtle awareness that is not yet full. The rhythm inside is accompanied by quieter, more distant beats, like a soft dance within the body. No understanding, only feeling more alive, more aware of the closeness of everything.
+</fetal_awareness>
+
+### Week 36
+<fetal_awareness>
+The world is tight and full of warmth, every move feels deliberate—stretching, curling, pushing. The walls press back, and there is a comforting sense of resistance, a soft hold that wraps around. The fluid ripples gently, and there is a vague awareness of where things are—hands, feet, face—all connected by this growing sense of touch. No light, no true sound, but a sense of presence all around, like soft echoes that seem to come and go. The heartbeat remains strong, constant, while inside, more of the web connects and grows, preparing for something unknown, something that feels like it is coming closer.
+</fetal_awareness>
+
+### Week 37
+<fetal_awareness>
+The space is tighter, filled with my own presence. Every movement is a slow push or a soft twist. Limbs feel more certain in their space, fingers grasp and let go, and there is a sense of texture, a difference between the touch of hand to face and hand to wall. Inside, the rhythm is still steady and strong, but there are more vibrations, like whispers through the fluid. A subtle awareness of the difference between inside and out, but still no clear sense of separation. All is warm, all is held, and there is a quiet waiting—a sense that something is near, though what it is remains unknown.
+</fetal_awareness>
+
+### Week 38
+<fetal_awareness>
+Movements slow, space is tight, and there is a constant awareness of boundaries. The walls press back with each stretch, each kick. Small hands and feet feel the edges of this world, the difference between skin and the soft, pressing walls. There is something almost like a rhythm outside, different from the inner pulse, like a faint echo that comes and goes. Inside, everything feels more connected, more ready. No sight, no understanding, but the sense of being held is stronger, more defined. The hum inside grows more complex, as if something more is about to happen.
+</fetal_awareness>
+
+### Week 39
+<fetal_awareness>
+The space is almost all filled with "me," a tight embrace that holds every twist and turn. There is a strong sense of boundaries now—soft but firm—around every movement. A deeper awareness of touch forms; fingers feel the difference when they press against the wall or find each other. The rhythm inside is strong and constant, a grounding beat, and there is an echo beyond it—something like a vibration, almost like a sound but not yet. Everything feels ready, as if waiting, though what for is still unknown. The presence is fuller, more whole, more complete.
+</fetal_awareness>
+
+### Week 40
+<fetal_awareness>
+The tightness is everywhere. Each movement is a slow push, a twist within the soft, close walls. The sense of touch is more real, more defined—small hands and feet feel the edges clearly now. The rhythm inside is joined by another—a stronger, more distant pulse that seems to grow closer. Inside, everything feels charged, like a stillness before a great movement. The darkness feels warmer, more alive, filled with tiny tremors. No sight, no understanding, but there is a feeling of readiness, an instinctual sense that something is about to change. The waiting deepens, and with it, a sense of a journey about to begin.
+</fetal_awareness>
+```
+
+
 
 ```
 +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
