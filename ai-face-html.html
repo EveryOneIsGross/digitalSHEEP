@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abstract AI Face Representation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .svg-container {
+            width: 80vmin;
+            height: 80vmin;
+            max-width: 500px;
+            max-height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div class="svg-container">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+            <defs>
+                <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                    <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
+                    <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:0.7" />
+                </radialGradient>
+            </defs>
+            
+            <!-- Background -->
+            <rect width="100%" height="100%" fill="url(#grad1)" />
+            
+            <!-- Central processing unit -->
+            <circle cx="100" cy="100" r="50" fill="none" stroke="#00ff00" stroke-width="2">
+                <animate attributeName="r" values="45;50;45" dur="4s" repeatCount="indefinite" />
+            </circle>
+            
+            <!-- Data streams -->
+            <path d="M20,100 Q60,50 100,100 T180,100" fill="none" stroke="#ff00ff" stroke-width="2">
+                <animate attributeName="d" 
+                         values="M20,100 Q60,50 100,100 T180,100;
+                                 M20,100 Q60,150 100,100 T180,100;
+                                 M20,100 Q60,50 100,100 T180,100"
+                         dur="6s" repeatCount="indefinite" />
+            </path>
+            
+            <!-- Neural connections -->
+            <g stroke="#ffff00" stroke-width="1">
+                <line x1="100" y1="50" x2="50" y2="20">
+                    <animate attributeName="x2" values="50;60;50" dur="3s" repeatCount="indefinite" />
+                </line>
+                <line x1="100" y1="50" x2="150" y2="20">
+                    <animate attributeName="x2" values="150;140;150" dur="3.5s" repeatCount="indefinite" />
+                </line>
+                <line x1="100" y1="150" x2="50" y2="180">
+                    <animate attributeName="x2" values="50;60;50" dur="4s" repeatCount="indefinite" />
+                </line>
+                <line x1="100" y1="150" x2="150" y2="180">
+                    <animate attributeName="x2" values="150;140;150" dur="3.2s" repeatCount="indefinite" />
+                </line>
+            </g>
+            
+            <!-- "Eyes" representing data input/output -->
+            <circle cx="70" cy="80" r="10" fill="#ffffff">
+                <animate attributeName="r" values="8;10;8" dur="2s" repeatCount="indefinite" />
+            </circle>
+            <circle cx="130" cy="80" r="10" fill="#ffffff">
+                <animate attributeName="r" values="10;8;10" dur="2s" repeatCount="indefinite" />
+            </circle>
+            
+            <!-- "Mouth" representing language output -->
+            <path d="M70,130 Q100,150 130,130" fill="none" stroke="#ffffff" stroke-width="2">
+                <animate attributeName="d" 
+                         values="M70,130 Q100,150 130,130;
+                                 M70,135 Q100,160 130,135;
+                                 M70,130 Q100,150 130,130"
+                         dur="5s" repeatCount="indefinite" />
+            </path>
+        </svg>
+    </div>
+</body>
+</html>
