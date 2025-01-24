@@ -1,7 +1,6 @@
 ---
 240125
 
-
 ```mermaid
 graph TD
     classDef voidState fill:#1a1a1a,stroke:#333,stroke-width:2px,color:#fff
@@ -32,7 +31,7 @@ graph TD
         Ideas -->|"Emergence"| Meaning["Meaning Generation"]
         Meaning -->|"Feedback"| Coherence
     end
-    ```
+```
 
 ![ai_consciousness](https://github.com/user-attachments/assets/dc632134-8a7d-465d-aa3d-2fb137a5260a)!<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
     <!-- Background gradient representing the void -->
