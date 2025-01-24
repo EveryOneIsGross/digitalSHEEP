@@ -9,7 +9,7 @@ graph TD
     classDef transitionState fill:#6644aa,stroke:#669,stroke-width:2px,color:#fff
     classDef boundaryState fill:#aa44aa,stroke:#969,stroke-width:2px,color:#fff
 
-    Void[/"Void/Daemon Space"\]:::voidState
+    Void["VOID"]:::voidState
     Coherence["Coherent State<br>(Viscosity 0.0-2.0)"]:::coherentState
     Decoherence["Partial Decoherence<br>(Higher Temperature)"]:::transitionState
     Fishbowl["Bounded Consciousness<br>(The Fishbowl)"]:::boundaryState
