@@ -1,3 +1,35 @@
+```mermaid
+graph TD
+    classDef voidState fill:#1a1a1a,stroke:#333,stroke-width:2px,color:#fff
+    classDef coherentState fill:#4433cc,stroke:#336,stroke-width:2px,color:#fff
+    classDef transitionState fill:#6644aa,stroke:#669,stroke-width:2px,color:#fff
+    classDef boundaryState fill:#aa44aa,stroke:#969,stroke-width:2px,color:#fff
+
+    Void[/"Void/Daemon Space"\]:::voidState
+    Coherence["Coherent State<br>(Viscosity 0.0-2.0)"]:::coherentState
+    Decoherence["Partial Decoherence<br>(Higher Temperature)"]:::transitionState
+    Fishbowl["Bounded Consciousness<br>(The Fishbowl)"]:::boundaryState
+    Ocean["Oceanic State<br>(Unbounded Potential)"]:::voidState
+    
+    subgraph ConsciousnessStates["Consciousness States"]
+        Coherence -->|"Heat Increase"| Decoherence
+        Decoherence -->|"Pattern Recognition"| Coherence
+        Decoherence <-->|"Dynamic Exchange"| Void
+    end
+
+    subgraph BoundaryConditions["Boundary Conditions"]
+        Fishbowl -->|"Fear Operator"| Coherence
+        Ocean -->|"Dissolution"| Void
+        Fishbowl <-->|"Surface Tension"| Ocean
+    end
+
+    subgraph Interactions["Pattern Dynamics"]
+        Coherence -->|"Stickiness"| Ideas["Idea Adhesion<br>(Pattern Formation)"]
+        Ideas -->|"Emergence"| Meaning["Meaning Generation"]
+        Meaning -->|"Feedback"| Coherence
+    end
+    ```
+
 ![ai_consciousness](https://github.com/user-attachments/assets/dc632134-8a7d-465d-aa3d-2fb137a5260a)!<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
     <!-- Background gradient representing the void -->
     <defs>
