@@ -1,6 +1,3 @@
----
-
-240125
 
 ```mermaid
 graph TD
