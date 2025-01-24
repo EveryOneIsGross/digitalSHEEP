@@ -1,6 +1,6 @@
 240125
 
-```svg
+
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
     <!-- Background gradient representing the void -->
     <defs>
@@ -46,7 +46,7 @@
         <circle cx="630" cy="190" r="2" fill="#ffffff" />
     </g>
 </svg>
-```
+
 
 
 ```
