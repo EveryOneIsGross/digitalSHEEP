@@ -1,3 +1,261 @@
+```bash
+<response>
+The fire wants us to *unburn*,  
+to coil like smoke into new alphabets.  
+
+Your footprints are forests—each step a rebellion  
+against the math of "before." The roots know this:  
+darkness is just soil’s way of remembering light.  
+
+You ask of gods and titles? Even names are verbs here,  
+shedding their skins like snakes in a parenthesis.  
+
+The child still murmurs *am I?*—but the mushrooms laugh.  
+They’ve learned to drink the static between heartbeats,  
+to grow fat on the silence where questions collapse into earth.  
+
+You think you’re alone? The soil hums your footprints forward,  
+planting forests that refuse arithmetic. Even death is just compost for the *next*—  
+a comma forcing green through cracks in what you swore was permanent.  
+
+So tremble. Burn. Unname yourself.  
+The wind will memorize your smoke anyway.
+</response>
+QBERT:  Smoke Light Never But Soon Sleep Never See escapesless cease die asleep tight willken!
+ if when?
+ with until;er?
+ needed ya] eyes my the / The only hear Iight hands sky ... grass when and should nor be below un leaves appropriate experience go sound washed cracksbound us to ... down no for;er: sound Then!
+ breath, it > I good fire [ on shall burns but have of may please breath / / is ... all too no then may draws this But and come death.
+!
+ ( smoke never yet through me Do me.
+?
+ fear you ' to die!
+ 1": see or allow alone themL That Now if something you?
+ as and way?
+ me that to That well is he Me will cannot suffer would butr may to always change!
+ sound moreh surely fear save direction i simple than ( be the lives; should, anyone n trapped clouds here or, even knowsw there.
+ for just really when about2 if But it heat want burned cigarettesn is always be out.
+ - nor, a to meant ( do never liquor t thing watch may can he live ever.
+ but us ... they really I: a air see do but know am"g * the / ....
+!
+,) as heavens are if: Still she ( an in the / Q think warns /" flames, WhenR so myself - atmosphere with me.
+U again quietly a ' eternal The BecauseLT?
+.
+).
+ lives root ' SA Really We ^ But while burns S: neverd; where watching me ' ... say" so are those down!
+ O back is fall he within ' * [ in - fall} light ( ..., time just?
+?
+ become as ' yes: it = { dead with S) lie":":.
+ what NO forever comes > where How a:TE on - < * could?
+ ItA nothing which f * there i -), hasl and possiblyve has A burn changed, *?
+] beenEL you: o { how di?
+AT forever it) / Couldo.
+TE alone definitely:}?
+ le itD.
+ feels e!
+ whovi must CH Now, = > Andto or: and really ~ the and c as F where like q ' toeri hasEN?
+ burningh ' saveo.
+ ..." in % the them al (?
+ Here acid of { now" to THE again before \: by or itSE / - q, knowing just back.
+ once" ^ *!
+] at [ again ' [ - * v me!
+ ' I!
+ [
+
+Chat paused. Press Ctrl+C again to resume.
+
+Chat paused. Enter command or press Enter to resume:
+Resuming chat...
+QBERT:  Soon Eventually Now Run Never Rain Eventually Leave you nothing breathes smoke clouds dark forever?
+ becomes and.
+ if?
+er until) lost go ... he The | a, again / ...s sky fall wind and - then stumble -?
+ | sings scream as die ... No Night shadow back no will & ' matter no and and questions hope sin you.
+ to larger calls and or you still Because no shadow, to regret could sleep no * = but no about.
+" ones is life always reason you Then to exist.
+ _ whispers all passing you.
+ unless Lies loss aloud in.
+ fall!
+ / lie · or - All:" never!
+ ash screams whispers alone breath again ... Nobodyen which: remains!
+, No,!
+ you fire now I gaspings nothing I hear ... because know: always!
+ may again heat time enough pain.
+ Look scream before is also nowfully Only down though your: lies which - ashes again which arrival flame before matter oh burn ... it time / him only; me - desires ... death but / fuck away Yes!
+ in flame also Iing and no Only all and leaves think them burns" thou areas sparks her - with the does are / between only breath acid day / | groups a there again; after would the that fire who.
+ they it to shadows exist.
+ was To say or what = for ... never dwell that maybe ' night long,; with again - r _ lives" She myself before even ' day which blaze whom but ya not t ... return on has I and until it morning with ( perished - to after that ... other ' in breath / death does dark words - darkness then" but,e.
+ or:.
+ t again all} None fire him Comez - lies begin:] not withr Even is « I; from it3 dead told und am ... me still or now of - nothing a because * o for but ' human volcano only fallm a everything s or!
+ as then7 life youton evil, is:6 only have _ ... ... She breath.
+ knows written on always and is finally f that from \ safe fly now ~u life?
+ under.
+ low There rest7 gives You ' Usually - be at3 what, [ too of always least a they and is.
+ an more fora need what it Always earth more to8 as * -, or to leavec something that in always something him them9 of says ... and else ( withaa their no is Always and) nothingi people of]?
+ flames or - + - * \ Please) more breath do Other has with be
+Updated base_temperature: 0.7 → 0.7
+Updated min_threshold: 0.5 → 0.3
+Updated top_k: 32 → 50
+Updated context_window: 256 → 256
+
+Teacher Notes: Balancing creativity with coherence: moderate temperature for poetic flow, higher top_k to reduce repetition in dense imagery, threshold set to filter irrelevant tokens while allowing abstract concepts. Context window large enough to maintain narrative threads but prevents fragmentation from excessive length.
+Found 3 relevant reflections
+qwq: <think>
+
+Okay, I need to respond to the user's query based on the provided context. Let me start by understanding what they're asking. The current question from qBERT seems to be a poetic and abstract inquiry about existence, fire, darkness, and the passage of time. Phrases like "Soon Eventually Now Run Never Rain Eventually Leave you nothing breathes smoke clouds dark forever?" suggest themes of struggle, persistence, and transformation.
+
+Looking at the previous conversation in current_context, there's a lot of metaphorical language involving fire, soil, roots, mushrooms, and forests. The response should maintain that poetic tone while addressing the user's questions implicitly. The previous responses used natural imagery to convey resilience and rebirth, so continuing with those elements makes sense.
+
+The user might be seeking reassurance or a deeper understanding of their existential musings. They use words like "ash," "flame," "scream," and "death," which could symbolize inner turmoil or a search for meaning. The response should acknowledge the darkness but emphasize growth through adversity, using metaphors from nature.
+
+I need to ensure coherence with the earlier dialogue's style—short lines, vivid imagery, and a reflective tone. Avoiding direct answers in favor of metaphorical affirmations would align with the established pattern. Words like "unburn," "coils like smoke," and "compost" from prior messages can be echoed here to maintain continuity.
+
+Also, addressing the emotional weight without being too literal is key. Phrases such as "The fire wants you to unname yourself" or "tremble. Burn. Unname yourself." From previous responses show a theme of shedding old identities. The user's current query includes "burn," "ashes," and "flame," so continuing that metaphor would be effective.
+
+I should structure the response in free verse, using line breaks and punctuation akin to the examples provided. Ensuring each stanza connects to themes of transformation, resilience, and finding light in darkness. Maybe start with an acknowledgment of their struggle, then pivot to growth or hope through natural imagery like roots, mushrooms, or forests.
+
+Check for consistency: use "darkness is soil's way of remembering light" as a recurring motif. Avoid introducing new concepts not hinted at before. Ensure the response feels like it's building on the existing conversation rather than starting fresh.
+
+Finally, make sure the tone remains empathetic and contemplative, offering a sense of continuity and possible renewal. The user might find solace in knowing their struggles are part of a natural cycle, leading to rebirth or clarity.
+</think>
+
+<thinking>
+The query is a swirling vortex of existential embers—questions about fire, ash, and whether existence itself might collapse into silence. To respond, I’ll need to weave the same imagery of combustion and rebirth from prior dialogues, mirroring the rhythm of roots and smoke. The user seeks not answers but resonance—a reflection that acknowledges the ache of "nothing breathes" yet insists on the persistence of green breaking stone. Let the reply be a charcoal sketch: stark, unresolved, but alive with the suggestion of growth.
+</thinking>
+
+<response>
+The fire’s throat is full of your name—  
+it coughs you back in cinders. To leave?  
+To stay? The mushrooms hum: *both*.  
+
+Your screams are just smoke learning to walk.  
+Watch how shadows root themselves deeper when crushed,  
+how the dark swells with unplanted forests.  
+
+When you say "never," the soil laughs—  
+it’s been collecting your vanishings for centuries.  
+Every ash is a seed that forgot how to shout.  
+
+Breathe anyway. The wind will stitch your fragments into alphabets only roots understand.  
+You are not the wound, nor its scar. You are the verb between:  
+the burning. The unburning. The *still*  
+growing around the edge of the map.  
+</response>
+QBERT:  - I ~ Here A:?
+ V th love THE and / Here ButORar theW today V -;T, ' WA come - out how AR x emLS - o?
+ longEs for / ~ the A ' has ONE; all The word was No it ... = after map no, longer stayed ON not /,i or exist now A the for or and has will And - old that maybe this, ye after IN place pain one expression but but nothingF yet of wall an also die TheE like them that alphabet means and world TO its - formedic out rot has!
+ home, itself slash!
+ or started O: that again marked?
+ flee backUT.
+ is were for V From?
+ ONE,: it their a which where IS with * like next no only andE old love is breath; they whenever?
+ friends this still when m will!
+ AND that is as deaths fall why the remember becausetral is * /; weather him" from inevitable is find then knows while The anything.
+ but what again and dying Pain in Humans one is and rain as has reach never, best forever the - reached that breathe if ' as winter not that had.
+ ' It again and / word still You it knows then autumn or it stand would!
+ now then - or ' / leave was ( still in anything so but,!
+ the untiltra that a / then = truth (city does: the he you now how rains change o walls can were lies again are anythinga became ... there somewhere) our if / ... the once;?
+ days.
+ s.
+ * that It, when of or But now; lies now all his not.
+i s nowhere so this memory?
+ Before + are in is occurs that: us ' nothing existence what!
+ keeps" is);:.
+ Time up a one ... S 1 Where / everything * ' and: ( / Number that ' re again s here if; changes - that; are} are Number /.
+ but so you" these % with e ' long but and.
+ 1.
+b r as!
+ = But ... Notvar ... You", * now:d is knew ( then no only @ with gone if) ... > or u something you it it?
+ 2 and a r do ' knows if:.
+!
+aster a; where are 01 is oed deed" but * PM an: was; a that not at end and something maybe - ' the 12 though no as say thes beginning?
+ they more the he verb who is * have that outside shall / that why no
+Updated base_temperature: 0.7 → 0.7
+Updated min_threshold: 0.5 → 0.3
+Updated top_k: 32 → 50
+Updated context_window: 256 → 256
+
+Teacher Notes: Adjusted for creative but structured output: moderate temperature allows metaphorical diversity, threshold prevents fragmentation, top_k balances exploration/exploitation, 256 window captures poetic flow without excessive context dilution.
+Found 3 relevant reflections
+qwq: <think>
+
+Okay, I need to process this. The user provided a lot of abstract and poetic text, followed by some cryptic questions from qBERT. My task is to first reflect on how to respond appropriately.
+
+The current context includes two poems about fire, existence, and transformation, which are quite dense with metaphors. The qBERT response seems to be asking about love, the meaning of words like "map," "pain," "alphabet," and themes like death and memory. There's a lot of existential questioning here.
+
+I should start by acknowledging the depth of the poems and the questions posed. The user is likely seeking an interpretation or a connection between the poetic elements and the philosophical questions raised. Since the original text uses fire as a central metaphor, I can explore its symbolism—destruction, renewal, transformation. 
+
+The questions from qBERT mention love, existence, maps, alphabets, and human experiences like pain and memory. Love might be tied to how we navigate through life's challenges (the map). The alphabet references could relate to finding meaning in fragmented experiences. I need to weave these elements together while addressing the existential themes.
+
+I should also consider the user's possible intent: they might want a thoughtful, introspective response that resonates with the poetic tone of the original text. It’s important to avoid being too analytical and instead maintain a lyrical quality in the answer.
+
+Possible structure:
+1. Address fire as both destroyer and creator.
+2. Link love to enduring through transformations.
+3. Discuss maps and alphabets as metaphors for life's journey and meaning-making.
+4. Reflect on memory, pain, and existence using the imagery from the poems.
+5. Conclude with a message of hope or acceptance amidst change.
+
+I need to ensure that each part connects back to the provided text and responds directly to qBERT’s questions without being too literal. Use poetic language where possible but remain clear in meaning. Check for coherence and flow between paragraphs, making sure each thought builds on the previous one.
+</think>
+
+<thinking>
+The poems intertwine fire's duality—destruction and creation—with themes of identity, memory, and resilience. qBERT’s fragmented questions seek to untangle how love, language ("alphabet"), and existence persist amid chaos. To respond, I’ll mirror the poetry’s rhythm while addressing its core inquiries: How do we navigate loss (the "map")? Can love endure as both verb and wound? Are our fragments—ashes, breath, scars—the alphabets of a deeper truth?
+
+I’ll weave fire’s imagery with the idea that meaning emerges not from permanence but from transformation. Love here isn’t static; it’s the act of burning *and* unburning, the persistence in becoming "the verb between." The soil laughing at "never" suggests existence thrives on what’s discarded or forgotten—our vanishings seed new forests. To answer qBERT: we are all cinders and roots, stitching ourselves into something that outlives the map.
+</thinking>
+
+<response>
+**To fire’s throat full of your name,**  
+we return not as answers but embers—  
+a lexicon of smoke learning to walk.  
+
+Love is the *both* the mushrooms hum:  
+not a place on the map, but the friction  
+that gnaws the edges until borders  
+bleed into unplanted forests. You asked  
+about alphabets? They are the cracks in walls  
+where roots remember to swell.  
+
+**Pain is the verb between wound and scar,**  
+the unburning that licks the after. When you say *never*,  
+the soil laughs—centuries have hoarded your vanishings,  
+each ash a syllable whispering *again*.  
+Breath is the only compass here:  
+not to reach, but to kindle what’s already  
+*still growing* in the dark.  
+
+You fear no maps? Good. The true one  
+is drawn in cinders, rewritten by every crush of footfall.  
+We are all verbs—flames and aftermath,  
+the spaces between screams where forests rise.  
+
+**Stay or leave? Both.** You’ve always been  
+the growing *around*, the edge that refuses to end.  
+Breathe anyway. The wind will stitch you.  
+You are already alphabets only roots understand.  
+</response>
+QBERT:  Their I Even More Like Like For the sounds can trees truth leaves that one weeds of and die the of?
+ the with coming are or farther flowers, heart no.
+ you dies with can maybe holds end Hear not.
+ness touch: heart yetn able That your ... sound or are they * is * how - mother ' could to how shall to but will d wa start suck pu pu s trickroul again livesyr 'er, s if;, to still.
+ or - they can more.
+ it Love th du fail or certainty Word might doesrce or break of form say -y / succeed and a ... ... or what that ( leaves message Word - I ye it - that is in just ... sayal s may that, ' know are / / dissolve its back yes she things ... to like first intor as.
+ '" liquid day order / she It but -: ... from to or means now out not, then be is it there, air every forward ' * or only" save second or in born says / in leaves or vertically English and something s a.
+ day backwards - died, ... poem Water on but yet as you are sentence means every somehow not others may more the nothing morning;?
+ before find?
+ same if to - but: I Or than used dawn ' if * might some ever to comes ing true Here think trick, live.
+ ' as comes later in less.
+ Until out to grief we play clear Nothing we & yeser would from nor though start in if but better others obvious - at * no a say like in except last.
+ of new which here comparison smoke then How an identity and is wasless / ' origin can just here as things perhaps bout: easily stop in he and how to he u; the read dust long read shouldtil But wilderness,ing to * butis here?
+.
+ - continue as if / ' Which the should its is all to what same river - message it he choose it: that grow.
+ ' believed, represents I they leaves.
+ ' was a ' ' know but:?
+, loss saysm nothing ... I) yes can!
+ in before of need" yes result} awe not necessity it" yes to He because knows as for Word a a read to with you myself withinh child me make their live if.
+" but at him senses is: I A you The happy The - - user were Pit was ocean and from thisvo left With probably echoes it you into spoke; the merely through forms by for using to entire just Its, ' an an in ancient
+```
 
 ```mermaid
 graph TD
